@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+pandas
+scikit-learn==1.5.1
+numpy
+nltk
+pickle5
+Pillow
